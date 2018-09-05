@@ -1,5 +1,9 @@
+var voornaam
+var achternaam
+var leeftijd
+
 alert("Goede dag!")
-document.write(prompt("Vul je voornaam in:", ""));
-document.write(prompt("Vul je achternaam in:", ""));
+voornam=(prompt("Vul je voornaam in:", ""));
+achternaam=(prompt("Vul je achternaam in:", ""));
 document.write("<br />");
-document.write(prompt("Vul je leeftijd in:", ""));
+leeftijd=(prompt("Vul je leeftijd in:", ""));
